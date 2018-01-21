@@ -21,4 +21,4 @@
 - I also had to find the best way to include the ellipse that grows in size but I was able to do that pretty fast
 - The last think I had to figure out is were to run it because I was using a windows computer and not a mac I wasn't sure if command prompt would work but at the end I got it to work with command prompt.
 
-##### All The code for the program is inside
+##### All The code for the program is inside Shared Canvas folder!
